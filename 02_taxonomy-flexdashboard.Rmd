@@ -1,0 +1,63 @@
+---
+title: "GOV.UK taxonomy interactive explorer [WIP]"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+# Call libraries
+library(flexdashboard)
+library(readr)
+library(tidyxl)
+library(unpivotr)
+library(dplyr)
+library(tidyxl)
+library(purrr)
+library(collapsibleTree) # https://adeelk93.github.io/collapsibleTree/
+
+# Read pre-prepared data from file 01_flatten-hierarchy.R
+hierarchy_flat <- read_csv("output/hierarchy_flat.csv")
+
+# Make into interactive tree to be called in a later chunk
+tree <- collapsibleTree(
+  hierarchy_flat,
+  hierarchy = paste0("level", 1:5),
+  root = "GOV.UK",
+  zoomable = FALSE,
+  fill = "#005ea5"
+)
+```
+
+Interactive tree {data-icon="ion-stats-bars"}
+=====================================  
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Interactive tree
+
+```{r tree}
+tree  # render the interactive tree
+```
+
+Information {data-orientation=rows data-icon="fa-info-circle"}
+===================================== 
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Counts
+
+There are:
+
+* `r length(unique(hierarchy_flat$level1))` level 1 taxons
+* `r length(unique(hierarchy_flat$level2))` level 2 taxons
+* `r length(unique(hierarchy_flat$level3))` level 3 taxons
+* `r length(unique(hierarchy_flat$level4))` level 4 taxons
+* `r length(unique(hierarchy_flat$level5))` level 5 taxons
+
+### More information
+
+[Awaiting content]
