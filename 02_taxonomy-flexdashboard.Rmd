@@ -7,26 +7,21 @@ output:
 ---
 
 ```{r setup, include=FALSE}
-# Call libraries
-library(flexdashboard)
-library(readr)
-library(tidyxl)
-library(unpivotr)
-library(dplyr)
-library(tidyxl)
-library(purrr)
+# Call packages
+library(flexdashboard)  # creates the dashboard framework
+library(readr)  # reading data
 library(collapsibleTree) # https://adeelk93.github.io/collapsibleTree/
 
 # Read pre-prepared data from file 01_flatten-hierarchy.R
 hierarchy_flat <- read_csv("output/hierarchy_flat.csv")
 
-# Make into interactive tree to be called in a later chunk
+# Create interactive tree to be called in a later chunk
 tree <- collapsibleTree(
-  hierarchy_flat,
-  hierarchy = paste0("level", 1:5),
-  root = "GOV.UK",
-  zoomable = FALSE,
-  fill = "#005ea5"
+  hierarchy_flat,  # input data frame
+  hierarchy = paste0("level", 1:5),  # columns containing hierarchy
+  root = "GOV.UK",  # name for root node
+  zoomable = FALSE,  # zoom in and out of the plot
+  fill = "#005ea5"  # set to GOV.UK default for now
 )
 ```
 
