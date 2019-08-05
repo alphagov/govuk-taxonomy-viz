@@ -1,0 +1,1293 @@
+parent,node,test_attribute
+GOV.UK homepage,Entering and staying in the UK,1.2422807040271693
+GOV.UK homepage,Going and being abroad,1.5879539253685788
+GOV.UK homepage,"Education, training and skills",0.06742291008533942
+GOV.UK homepage,"Parenting, childcare and children's services",0.030265646471240016
+GOV.UK homepage,Corporate information,2.3450235289385555
+GOV.UK homepage,Transport,1.1036415898804908
+GOV.UK homepage,Environment,0.18317713647184836
+GOV.UK homepage,Welfare,0.2385363454433258
+GOV.UK homepage,"Housing, local and community",0.7740600778697442
+GOV.UK homepage,Life circumstances,2.5972584292851355
+GOV.UK homepage,International,0.27094011158947284
+GOV.UK homepage,Defence and armed forces,2.232015463400708
+GOV.UK homepage,"Crime, justice and law",0.7309980021061842
+GOV.UK homepage,Regional and local government,2.154860200375157
+GOV.UK homepage,Society and culture,0.44693163011022835
+GOV.UK homepage,Government,0.8360402865813003
+GOV.UK homepage,Work,0.09726504896191125
+GOV.UK homepage,Money,2.1500142398982587
+GOV.UK homepage,Business and industry,0.8159396467738154
+GOV.UK homepage,Health and social care,1.3640393790982748
+Entering and staying in the UK,Travel and identity documents for foreign nationals,0.004523668290304906
+Entering and staying in the UK,Immigration offences,0.19013321103810857
+Entering and staying in the UK,Immigration adviser services,1.2277338694452027
+Entering and staying in the UK,Rights of foreign nationals in the UK,0.7675943682331189
+Entering and staying in the UK,Visas and immigration corporate,1.6307861777284867
+Entering and staying in the UK,Border control,1.1046878991913822
+Entering and staying in the UK,Immigration rules,0.5154817134407468
+Entering and staying in the UK,"Refugees, asylum and human rights",1.1831956538830015
+Entering and staying in the UK,Visas and entry clearance,0.6385744778039298
+Entering and staying in the UK,Permanent stay in the UK,1.1153005051966005
+Entering and staying in the UK,"Inspections of border, immigration and asylum services",0.5371841136575655
+Going and being abroad,Travel abroad,1.3975695894453095
+Going and being abroad,Passports,0.5281195637972023
+Going and being abroad,British nationals overseas,1.2260027150222048
+Going and being abroad,Living abroad,1.463304890898993
+"Education, training and skills","Further and higher education, skills and vocational training",0.5348533076748805
+"Education, training and skills","Pupil wellbeing, behaviour and attendance",1.1181732734171799
+"Education, training and skills",Teaching and leadership,0.7218693364068111
+"Education, training and skills",Inspections and performance of education providers,0.1367565582819082
+"Education, training and skills",Education of disadvantaged children,1.5067851066666247
+"Education, training and skills",Starting and attending school,0.2726816593623523
+"Education, training and skills",Running and managing a school,1.1065721378925313
+"Education, training and skills",School and academy financial management and assurance,0.1503179540915683
+"Education, training and skills",Funding and finance for students,0.8694575836302172
+"Education, training and skills",School curriculum,0.021856454327735923
+"Education, training and skills",Special educational needs and disability (SEND) and high needs,0.5825865885208581
+"Education, training and skills",School and academy funding,1.3435849193126828
+"Parenting, childcare and children's services","Divorce, separation and legal issues",0.5704068671942494
+"Parenting, childcare and children's services",Childcare and early years,0.27602777430368375
+"Parenting, childcare and children's services",Financial help if you have children,0.2412177012277633
+"Parenting, childcare and children's services","Adoption, fostering and surrogacy",1.6460034964941928
+"Parenting, childcare and children's services",Children's health and welfare,0.15970861966608216
+"Parenting, childcare and children's services",Youth employment and social issues,0.8201964776707644
+"Parenting, childcare and children's services",Pregnancy and birth,0.9780553102675108
+"Parenting, childcare and children's services",Safeguarding and social care for children,0.767501999637056
+Transport,Transport modelling and appraisal,1.1755643980521964
+Transport,Transport accessibility and mobility,0.1395365396194816
+Transport,Rail,0.23727298384519263
+Transport,Transport planning,0.03629406172321722
+Transport,Transport security,0.22105275416967676
+Transport,Corporate and operational information (transport),0.3150740113938972
+Transport,Driving and road transport,0.1865958895449091
+Transport,Freight and cargo,0.5785682279515558
+Transport,Road infrastructure,1.5941015946799844
+Transport,Careers in transport,0.007812459619734783
+Transport,Maritime and shipping,1.1180168868771079
+Transport,Aviation,0.5174214552486764
+Transport,Local transport,3.0400477419743814
+Environment,Environmental permits,0.376965653111475
+Environment,Water industry,0.5226820459004665
+Environment,Climate change and energy,0.526584273244981
+Environment,Rural and countryside,1.520980359491507
+Environment,Pollution and environmental quality,0.8599558845288743
+Environment,"River maintenance, flooding and coastal erosion",0.8882284853102075
+Environment,"Wildlife, animals, biodiversity and ecosystems",0.6315226457331126
+Environment,"Commercial fishing, fisheries and vessels",0.2516937222554586
+Environment,"Oil, gas and coal",1.1777206982998152
+Environment,Waste and recycling,1.2775655893115667
+Environment,Food and farming,0.9263304299861181
+Environment,Marine,1.894278346843237
+Environment,Chemicals,0.4049857543631901
+Welfare,Child Benefit,1.1014456338451648
+Welfare,Carers and disability benefits,0.9004799620610433
+Welfare,Child maintenance reform,1.579167391908046
+Welfare,Death and benefits,0.7754282392484771
+Welfare,Benefits for families,1.2150500537529378
+Welfare,Heating and housing benefits,0.9403092279104084
+Welfare,Tax credits,1.7173972133883342
+Welfare,Benefits entitlement,1.5522638117791718
+Welfare,Jobseeker's Allowance and low income benefits,0.7064485347109651
+Welfare,Universal Credit,1.073943123067854
+Welfare,Welfare reform,1.180831627629573
+"Housing, local and community",Land registration,1.3208557096883045
+"Housing, local and community",Housing,0.9935289321250834
+"Housing, local and community",Planning and building,0.6284588202890337
+"Housing, local and community",Household energy,0.5546429150654648
+Life circumstances,"Having a child, parenting and adoption",0.514733296199793
+Life circumstances,"Certificates, register offices, changes of name or gender",1.0749470088127981
+Life circumstances,"Lasting power of attorney, being in care and your financial affairs",0.6687926687336153
+Life circumstances,"Marriage, civil partnership and divorce",0.8154259941751364
+Life circumstances,Death and bereavement,0.028145051023925366
+International,Foreign affairs,0.8086312422612589
+International,International aid and development,0.31167179916755
+International,Human rights internationally,0.3029589963950478
+International,"UK prosperity and security: Asia, Latin America and Africa",0.49207166377532685
+International,Anti-corruption,1.3476099074690573
+International,The Commonwealth,2.282745447831053
+International,Sexual violence in conflict,0.06144870058926028
+Defence and armed forces,UK nuclear deterrent,0.05850462988071902
+Defence and armed forces,Weapons proliferation,0.25413989045496127
+Defence and armed forces,Armed forces support for activities in the UK,0.8803765244503057
+Defence and armed forces,Armed forces,0.4932998798476556
+Defence and armed forces,Support services for veterans and their families,1.0147637248239016
+Defence and armed forces,Support services for military and defence personnel and their families,0.8828765694663552
+Defence and armed forces,Military awards and commemorations,0.22154561736695244
+Defence and armed forces,Ministry of Defence estate,0.8544209585212017
+Defence and armed forces,"Military recruitment, training and operations",0.2575344844288298
+Defence and armed forces,"Military equipment, logistics and technology",0.9938644675632565
+Defence and armed forces,International defence commitments,0.49394888037242735
+Defence and armed forces,Stability in the Western Balkans,0.6947285124440437
+Defence and armed forces,Armed forces and Ministry of Defence reform,1.5513163325911907
+Defence and armed forces,Armed Forces Covenant,1.5552074781306326
+Defence and armed forces,Nuclear disarmament,0.03652582764220581
+"Crime, justice and law",Young people and the law,0.9381467349268601
+"Crime, justice and law",Statutory rights,1.7719843253357384
+"Crime, justice and law",Your rights and the law,0.38582321006837555
+"Crime, justice and law",Crime prevention,0.17185845009831638
+"Crime, justice and law",Prisons and probation,0.9443595313800156
+"Crime, justice and law",Legal aid,0.0456024737523794
+"Crime, justice and law",Reporting crimes and getting compensation,0.9351852095969964
+"Crime, justice and law","Courts, sentencing and tribunals",1.4204890529642464
+"Crime, justice and law",Counter-terrorism,0.8892502238171234
+"Crime, justice and law",Policing,0.5561437903610269
+"Crime, justice and law","Knife, gun and gang crime",1.0013607746509732
+"Crime, justice and law",Reoffending and rehabilitation,0.9285834667579492
+"Crime, justice and law",Legal aid reform,0.1144434980601153
+"Crime, justice and law",Attorney General guidance to the legal profession,0.3721139942161622
+"Crime, justice and law",Forced marriage,0.5004277026857952
+"Crime, justice and law",Domestic violence,0.5646029674496462
+"Crime, justice and law",Law and practice,0.04477609290776067
+"Crime, justice and law",Family justice system,0.73840995001008
+"Crime, justice and law",Justice system transparency,0.7515153862188924
+"Crime, justice and law",Violence against women and girls,1.2115547879943063
+"Crime, justice and law",Criminal justice reform,0.5672156696267961
+"Crime, justice and law",Civil justice reform,0.09753062174513977
+"Crime, justice and law",Criminal record disclosure,0.22168049214335955
+"Crime, justice and law",Victims of crime,0.7633088732841882
+"Crime, justice and law",Sentencing reform,0.3294052816133583
+"Crime, justice and law",Administrative justice reform,1.5969830204566222
+"Crime, justice and law",Byelaws,0.40025837952911614
+"Crime, justice and law",Data protection,0.9665312361151647
+"Crime, justice and law",Counter-extremism,1.1575257200464695
+Regional and local government,Devolution,0.32788803020110324
+Regional and local government,Local government,0.9448788298622058
+Regional and local government,Wales,1.0775753328834174
+Regional and local government,Local government spending,0.6331175706254101
+Regional and local government,Northern Ireland,1.722698870209813
+Regional and local government,Localism,0.8259716165485058
+Regional and local government,Scotland,0.4649875588345084
+Regional and local government,Local councils and services,0.1917049503802617
+Society and culture,"Charities, volunteering and honours",0.3919148769400158
+Society and culture,British citizenship,0.41905083020154255
+Society and culture,Community and society,0.060605993725815197
+Society and culture,Arts and culture,0.12981683787226747
+Society and culture,Sports and leisure,1.0596349348014875
+Society and culture,National events and ceremonies,0.2951397429029576
+Society and culture,"Equality, rights and citizenship",0.8068959035541695
+Society and culture,Loneliness,0.24207319082554948
+Society and culture,Tourism,1.1692490635584214
+Society and culture,Digital inclusion and accessibility,0.2751537011385528
+Society and culture,Young people,0.628467024431961
+Government,Public sector land use,1.1131730747853676
+Government,Brexit,0.05069794363412489
+Government,National security,0.1488971734998841
+Government,"Government efficiency, transparency and accountability",0.7415573502419429
+Government,"Emergency preparation, response and recovery",0.6671123651187871
+Government,Public services,0.5397714198831572
+Government,Government technology and digital services,1.8627969494063805
+Government,Sustainable development,0.5219601746040003
+Government,Cyber security,0.23769775002646515
+Government,Europe,1.6768345369393083
+Government,Democracy,0.6055593162772965
+Government,Government reform,0.108829517124262
+Work,Secondments with government,1.0948290316466633
+Work,Government graduate schemes,1.1912505418610815
+Work,Self-employment,1.536179407360434
+Work,Labour market reform,0.8088974003813352
+Work,Health and safety reform,1.132355962932694
+Work,Work and disabled people,0.6359634556810406
+Work,"Working, jobs and pensions",0.9832215353932768
+Work,Payroll,0.6332737221713616
+Work,Pensions and ageing society,1.2756753682817312
+Work,Trade unions,1.8187467811397526
+Work,Health and safety at work,0.5111133976055957
+Money,Expenses and employee benefits,0.49543049804897954
+Money,"Court claims, debt and bankruptcy",0.007005624146951589
+Money,Money laundering regulations,1.8927966071280546
+Money,Business tax,2.3665542175496523
+Money,Dealing with HMRC,0.8980735999941052
+Money,Personal tax,0.4686276018705709
+Money,Tax evasion and avoidance,2.6152115132275204
+Business and industry,Running a business,0.6616789264400234
+Business and industry,Corporate governance,1.0294950298852374
+Business and industry,Business regulation,1.3423173374439794
+Business and industry,Charities and social enterprises,0.1843042805278425
+Business and industry,Science and innovation,0.44089303454955286
+Business and industry,Trade and investment,2.1505466503798867
+Business and industry,Manufacturing,0.4604112094230829
+Business and industry,UK economy,0.028255037264854715
+Business and industry,Industrial strategy,1.1931292122757011
+Business and industry,Business and the environment,1.3846777700578774
+Business and industry,Media and communications,1.0516053971261599
+Business and industry,Financial services,0.2733340258914007
+Health and social care,Social care,0.03364630838090595
+Health and social care,Disabled people,0.35452706717502996
+Health and social care,National Health Service,0.8703358761796433
+Health and social care,Public health,1.0707027240166997
+Health and social care,Technology in health and social care,1.1568842722100559
+Health and social care,Research and innovation in health and social care,0.317126647745776
+Health and social care,Blood regulation and safety,0.14475238653211622
+Health and social care,"Medicines, medical devices",0.646193933600823
+Immigration offences,Immigration penalties,0.5981106432936156
+Immigration offences,Immigration detention,1.2163085296439882
+Immigration offences,"Deportation, removals and curtailment",1.5338540338156037
+Rights of foreign nationals in the UK,Right to rent in the UK,0.4616368120730407
+Rights of foreign nationals in the UK,Foreign nationals working in the UK,0.02478102440665996
+Rights of foreign nationals in the UK,Rights of EU and EEA citizens,1.868286599361011
+Rights of foreign nationals in the UK,Rights of nationals from outside the EU and EEA,0.32081701620183833
+"Refugees, asylum and human rights",Asylum for children,0.6455499023987451
+"Refugees, asylum and human rights",Asylum decisions and appeals,2.043837620112963
+"Refugees, asylum and human rights","Refugee, asylum and human rights claims",0.36529877808218036
+"Refugees, asylum and human rights",Support for asylum claimants and refugees,0.2651194829991582
+Visas and entry clearance,Visa applications,0.13686690774271645
+Visas and entry clearance,Visa refusals and appeals,0.6380567659013292
+Visas and entry clearance,Family visas,1.3507565252774183
+Visas and entry clearance,Student visas,0.04290453962526519
+Visas and entry clearance,Tuberculosis (TB) testing,0.7265394673328803
+Visas and entry clearance,Visa sponsorship,0.05668793876204378
+Visas and entry clearance,Visa application centres,0.838067787219833
+Visas and entry clearance,Visit and transit visas,0.5746617878599908
+Visas and entry clearance,Work and investor visas,0.5633182544049438
+Permanent stay in the UK,Settlement,1.3938362467595051
+Permanent stay in the UK,Citizenship,1.2318776544433485
+"Further and higher education, skills and vocational training",T levels,0.06602823640439465
+"Further and higher education, skills and vocational training",Learning Records Service (LRS),0.01174765419740242
+"Further and higher education, skills and vocational training",Running a further or higher education institution,0.1080926455018385
+"Further and higher education, skills and vocational training",Further education financial management and data collection,0.07802584579265426
+"Further and higher education, skills and vocational training",Further and higher education courses and qualifications,0.9526928317556943
+"Further and higher education, skills and vocational training",Careers guidance in further and higher education,0.9283790162856855
+"Further and higher education, skills and vocational training",Adult and community learning,0.9180700518825394
+"Further and higher education, skills and vocational training","Apprenticeships, traineeships and internships",0.9668012140201057
+"Further and higher education, skills and vocational training",Education in prisons,0.6728206276269728
+"Further and higher education, skills and vocational training",Further education funding,0.38048681261275946
+"Pupil wellbeing, behaviour and attendance",Safeguarding pupils,1.7020060555913958
+"Pupil wellbeing, behaviour and attendance",Alternative provision and pupil referral units,2.1836142713933784
+"Pupil wellbeing, behaviour and attendance",School bullying,1.315238476976011
+"Pupil wellbeing, behaviour and attendance","Health, safety and wellbeing in schools",1.3853530928533333
+"Pupil wellbeing, behaviour and attendance",School attendance and absence,0.4970832387488247
+"Pupil wellbeing, behaviour and attendance",School discipline and exclusions,1.6353271051332414
+Teaching and leadership,Teacher records,0.9949509686636685
+Teaching and leadership,"Teacher pay, pensions and conditions",0.3691101385412429
+Teaching and leadership,"Recruiting, inducting and managing teachers",3.155021960039688
+Teaching and leadership,Teacher training and professional development,1.8639379020590925
+Teaching and leadership,"Teaching standards, misconduct and practice",0.3082086498518303
+Inspections and performance of education providers,Inspection and performance of further education providers,0.7098302259307353
+Inspections and performance of education providers,Inspection and performance of schools,0.9986456759718305
+Starting and attending school,Home schooling,0.9940378798225727
+Starting and attending school,Dealing with problems at school,0.5303176818133999
+Starting and attending school,Help with school costs,1.022792314027863
+Starting and attending school,Sending a child to school,0.09210524504825068
+Running and managing a school,School-to-school support,2.381713256703628
+Running and managing a school,Recruiting and managing non-teaching school staff,0.40665494794053764
+Running and managing a school,Careers guidance in schools,0.2594867180939557
+Running and managing a school,School admissions,0.6792464726493045
+Running and managing a school,School trips and extracurricular activity,0.5773111247865923
+Running and managing a school,School complaints and whistleblowing,0.6506976955818186
+Running and managing a school,Setting up or changing the status of a school,0.30891287131002526
+Running and managing a school,"School food, accommodation, transport and uniform",0.7290744189211209
+Running and managing a school,School planning,0.9667280024445097
+Running and managing a school,School governance,0.03883658407256642
+Running and managing a school,School buildings and land,0.5759823657647373
+Running and managing a school,Data collection and censuses for schools,2.3735908146155236
+School and academy financial management and assurance,Local authority schools financial reporting and assurance,0.8292363568479818
+School and academy financial management and assurance,Academy and academy trust finance and reporting,0.5318460432261605
+School and academy financial management and assurance,School procurement,0.13796544920100107
+School and academy financial management and assurance,"Financial management, reporting and assurances for 16 to 19 year olds funding",0.533135605918793
+Funding and finance for students,Student loans,1.6519911082997727
+Funding and finance for students,Financial help for students who are parents or carers,1.7170599602928744
+Funding and finance for students,"Student grants, bursaries and scholarships",1.3409806084305251
+School curriculum,Exam regulation and administration,0.5284861990232497
+School curriculum,Key stage 5 (AS and A Levels),1.8919716364240253
+School curriculum,"Personal, social, health and economic education",0.09781610567029458
+School curriculum,"Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",1.0312135008227366
+School curriculum,Early years curriculum,0.12716048885734405
+School curriculum,"Spiritual, moral, social and cultural development",1.0206060255283904
+School curriculum,"Primary curriculum, key stage 2",1.2434844318346017
+School curriculum,"Primary curriculum, key stage 1",0.23392469688847986
+Special educational needs and disability (SEND) and high needs,Funding for special educational needs and disability (SEND),0.13103030438593866
+Special educational needs and disability (SEND) and high needs,Funding for high needs,0.17939263548042958
+Special educational needs and disability (SEND) and high needs,Support for special educational needs and disability (SEND),1.8416659168690082
+School and academy funding,Initial Teacher Training funding,1.244127545065644
+School and academy funding,Schools forums,0.424560426123342
+School and academy funding,Pupil premium and other school premiums,0.24719669257852056
+School and academy funding,Funding for school buildings and land,0.6903181172669655
+School and academy funding,Free school meals (FSM) funding,1.4493796099196703
+School and academy funding,Funding for different types of schools and settings,0.12450698670222371
+School and academy funding,Funding for school places,1.3455129982170193
+"Divorce, separation and legal issues",Child custody,0.274284957964115
+"Divorce, separation and legal issues",Disagreements about parentage,1.1351642968899995
+"Divorce, separation and legal issues",Child maintenance,0.41370867273783757
+Childcare and early years,Local authorities and early years,0.04744398530254747
+Childcare and early years,Finding childcare,0.5186230952082714
+Childcare and early years,Providing childcare,1.5900809571662322
+Childcare and early years,Data collection for early years and childcare,2.3485309775011856
+Financial help if you have children,Financial help if you have a disabled child,1.7862007881998816
+Financial help if you have children,Child benefit,2.2147979734015526
+Financial help if you have children,Financial help when having a baby,1.8332196392685176
+Financial help if you have children,Tax credits if you have children,0.009932107251996707
+Financial help if you have children,Savings accounts for children,0.28905285128755825
+Financial help if you have children,Financial help if you're a student with children,1.8087268219872799
+Financial help if you have children,Financial support for childcare,0.6552177483444331
+"Adoption, fostering and surrogacy",Adoption,0.1464752369289882
+"Adoption, fostering and surrogacy",Intercountry adoption,1.6307697957739922
+"Adoption, fostering and surrogacy",Fostering,0.013428318730341775
+"Adoption, fostering and surrogacy",Special guardianship,1.5466782745770826
+"Adoption, fostering and surrogacy",Surrogacy,0.3004565259421151
+Children's health and welfare,Children's health,0.23767009050858234
+Children's health and welfare,Support for children with special educational needs and disabilities (SEND),0.7380295888706666
+Children's health and welfare,Children's rights,0.6500693286828498
+Children's health and welfare,Mental health of children and young people,1.627237498772838
+Children's health and welfare,Help for children with a long-term illness or disability,0.6859514288877008
+Children's health and welfare,Child poverty,0.2744912496868014
+Pregnancy and birth,Register the birth of a child,0.05470796152857117
+Pregnancy and birth,Working and time off when you're having a baby,1.2555755948957446
+Safeguarding and social care for children,Child and family social work,0.2837013278172661
+Safeguarding and social care for children,Safeguarding and child protection,1.0951187118630101
+Safeguarding and social care for children,Looked-after children and children in care,0.20744259857488836
+Safeguarding and social care for children,Children's social care providers,0.27725604902291656
+Transport accessibility and mobility,Taxi and private hire accessibility,2.398880764503828
+Transport accessibility and mobility,Mobility scooters and wheelchairs,0.012706435557164612
+Transport accessibility and mobility,Blue badges,0.42512755850304057
+Transport accessibility and mobility,Help on public transport,0.15242787444095018
+Rail,Rail ticketing and fares,0.2249736478068589
+Rail,Rail stations,0.5733003657003904
+Rail,Crossrail,0.012582222282756335
+Rail,Rail accessibility,0.37024286236041853
+Rail,Rail network,0.9182408984654592
+Rail,Rail infrastructure,0.9998648319793988
+Rail,Rail interoperability,0.9840251297256456
+Rail,Rail passenger experience,0.8287739565299794
+Rail,Rail safety and security,1.5859153647863389
+Rail,Rail franchising,0.42990750255544796
+Rail,HS2,0.26434087766363373
+Rail,Community rail,1.2706386503919032
+Rail,Rail network and the environment,0.6289044429391591
+Rail,Rolling stock (passenger trains),1.9243889599863926
+Rail,Rail accidents and serious incidents,1.5381606972727366
+Driving and road transport,Vans and minibuses,1.4198686277122492
+Driving and road transport,Cycling and walking,1.5921014196776329
+Driving and road transport,Autonomous road vehicles,0.8203940559694984
+Driving and road transport,"Vehicle ownership, approval and standards",0.4309856414656189
+Driving and road transport,Driving and motorcycle tests,0.7443789543009053
+Driving and road transport,Driving licences,0.0851056155450934
+Driving and road transport,"Road safety, driving rules and penalties",0.3403209382672599
+Driving and road transport,Driving instruction and driving lessons,0.5524766296411051
+Driving and road transport,"Professional driving of lorries, buses and coaches",0.13519174286631716
+Driving and road transport,Transport businesses and vehicle operator licences,1.0539234150066947
+Driving and road transport,Road transport and the environment,1.4598511219833719
+Driving and road transport,Road traffic,0.8497242288473098
+Freight and cargo,Transporting abnormal loads,0.526599548262938
+Freight and cargo,Road freight,0.022250988350383877
+Freight and cargo,Rail freight and cargo,1.7902764356028362
+Freight and cargo,Transporting dangerous goods,0.3601120835269178
+Freight and cargo,Vessel cargo,0.44454128984926294
+Road infrastructure,Road maintenance,2.5435291993740843
+Road infrastructure,Animals on roads,0.38263459651150533
+Road infrastructure,Advice for drivers,1.0123798433799251
+Road infrastructure,Roads and the environment,0.33727105916364375
+Road infrastructure,Smart motorways,1.4417621192964916
+Road infrastructure,Parking,0.5865351314403475
+Road infrastructure,"Traffic signs, signals and markings",1.2508884954481572
+Road infrastructure,Speed limits and traffic cameras,0.7373452881486756
+Road infrastructure,Road tolls and charges,0.5603283668031945
+Road infrastructure,Road improvement and investment,1.4155751346202279
+Road infrastructure,Road works and street works,0.3976154530207334
+Maritime and shipping,UK sea passengers,0.6114427782730635
+Maritime and shipping,Maritime passenger rights,0.5258936974194448
+Maritime and shipping,Waterways (maritime),0.7839109160589921
+Maritime and shipping,Maritime security,0.6480358580283332
+Maritime and shipping,Vessel surveys and inspection,0.17786178573948072
+Maritime and shipping,Fishing,0.5271142016158549
+Maritime and shipping,Maritime enforcement and prosecution,0.38197821214807665
+Maritime and shipping,"Seafarer management, training and certification",0.7334805469570749
+Maritime and shipping,Wrecks,1.0477765503097858
+Maritime and shipping,Coastguard search and rescue,0.39287095174437475
+Maritime and shipping,Maritime navigation,0.2754772325238095
+Maritime and shipping,Maritime and the environment,0.5553184431438075
+Maritime and shipping,Maritime safety,0.5949818250975831
+Maritime and shipping,"Ports, harbours and offshore installations",1.0070457726538942
+Maritime and shipping,Vessel registration and design,1.7037514377149712
+Maritime and shipping,Maritime accidents and serious incidents,0.7718413422865003
+Aviation,Air routes,1.2364783135356268
+Aviation,Aviation passenger experience,0.02601811928044171
+Aviation,Air passenger duty,0.3407765574061655
+Aviation,Aviation and Europe,1.858890051357656
+Aviation,Night flights,1.9001593026943944
+Aviation,New aviation technology,1.0438114302020265
+Aviation,Surface access to airports,1.1155804782398162
+Aviation,Airport capacity and expansion,0.13239240326215304
+Aviation,Aviation and the environment,0.5242313388143754
+Aviation,Aviation safety and security,0.7982767348261122
+Aviation,Air navigation,0.8870096794016606
+Aviation,Air accidents and serious incidents,1.9433444623153164
+Aviation,General aviation,1.2980527004518057
+Local transport,Inland waterways,0.1176836584898146
+Local transport,Travel passes and concessions,0.3490351322725954
+Local transport,Light rail and trams,0.6640131064361875
+Local transport,Local transport funding,1.1922146314371633
+Local transport,Buses,0.8083795645595359
+Local transport,Tube,1.283876560821119
+Water industry,Discharge water,0.7248053808228168
+Water industry,Impound (store) water,1.4330003189382379
+Water industry,Abstract (take) water,1.0682917009483004
+Water industry,Water quality,0.09074955557520216
+Water industry,Drought and water availability,0.9078864794471322
+Water industry,Water and sewerage services,0.9648841091642926
+Climate change and energy,Energy infrastructure,0.9321682037433123
+Climate change and energy,Emissions and emissions trading,0.6878888972742621
+Climate change and energy,Energy efficiency,1.2796122253352213
+Climate change and energy,Energy security,0.4979441294621554
+Climate change and energy,Low carbon technologies,0.22422530295814924
+Climate change and energy,Energy and climate change: evidence and analysis,0.5635880687509813
+Climate change and energy,Greenhouse gas emissions,0.8885607963517949
+Climate change and energy,Climate change international action,1.621971043013907
+Climate change and energy,Climate change adaptation,0.2563346927374662
+Climate change and energy,Hydropower,1.046077395925757
+Rural and countryside,Boats and waterways,0.5982634020955465
+Rural and countryside,Countryside,1.6858940008307763
+Rural and countryside,Forests and woodland,0.11208804069441146
+Rural and countryside,Rural development and land management,0.7065997401087022
+"Wildlife, animals, biodiversity and ecosystems",Biodiversity and ecosystems,0.014878170223633561
+"Wildlife, animals, biodiversity and ecosystems",Wildlife and animal welfare,0.8955096519388821
+"Wildlife, animals, biodiversity and ecosystems",Animal and plant health,0.5130162276975709
+"Wildlife, animals, biodiversity and ecosystems",Protected sites and species,0.5950551834508504
+"Wildlife, animals, biodiversity and ecosystems",Wildlife and habitat conservation,2.6654187971137002
+"Wildlife, animals, biodiversity and ecosystems",Pets,1.3189707768453696
+"Wildlife, animals, biodiversity and ecosystems",Animal welfare,1.5909712518259815
+"Commercial fishing, fisheries and vessels","Fishing regulations, monitoring and enforcement",0.3500055776798831
+"Commercial fishing, fisheries and vessels",Fisheries funding,0.3872685213473166
+"Commercial fishing, fisheries and vessels",Fishing vessels,0.29359567593077185
+"Commercial fishing, fisheries and vessels",Marine fisheries,1.8023326632328176
+"Commercial fishing, fisheries and vessels",Freshwater fisheries,0.19107190671852736
+"Oil, gas and coal",Oil spills,0.09651836995481984
+"Oil, gas and coal",Oil and gas licensing,0.5044991118899466
+"Oil, gas and coal",Exploration and production,0.7794132889786496
+"Oil, gas and coal",Infrastructure and decommissioning,0.4959891587172931
+"Oil, gas and coal",Carbon capture and storage,0.10028707569211304
+"Oil, gas and coal",Oil and gas finance and taxation,1.310033808424328
+"Oil, gas and coal",Fields and wells,0.6445419125821421
+"Oil, gas and coal",Onshore oil and gas,0.38370678848491063
+"Oil, gas and coal",Coal,0.280123871950967
+Waste and recycling,Waste and environmental impact,0.7803751491024966
+Waste and recycling,Waste management,0.816676101723479
+Waste and recycling,Radioactive and nuclear substances and waste,0.520635966135422
+Food and farming,Food and farming industry,0.4318882240391345
+Food and farming,Common Agricultural Policy reform,0.10619568196025882
+Food and farming,Keeping farmed animals,0.7460712458653154
+Food and farming,Producing and distributing food,0.2585430985231749
+Food and farming,Farming and food grants and payments,1.0440415604407447
+Marine,Harbour orders,0.7448794857052038
+Marine,Sea fishing,0.15302403096711617
+Marine,Harbours,0.3040584957908294
+Marine,Marine protection and wildlife,0.017155363986466853
+Marine,Species protection and marine conservation,1.006508933420598
+Marine,Treasure and wrecks,1.5570875097997703
+Marine,Marine licences,0.03957324538231272
+Marine,Hydrography,1.8169298381883643
+Marine,Marine planning,1.0680424592716173
+Marine,Marine environment,0.8934595872420411
+Chemicals,F-gases and HCFCs,0.5399599931895159
+Chemicals,Polychlorinated biphenyl (PCBs),0.6583884875263656
+Chemicals,Mercury,0.8043107228871542
+Chemicals,Contaminated land,0.7679460158096117
+Chemicals,REACH regulations,0.01354968023708953
+Child Benefit,Support for families,0.5225114244123998
+Child Benefit,High Income Tax Charge,2.1273863974198046
+Land registration,Business and mortgage services,0.9507826477472301
+Land registration,"Land registration searches, fees and forms",0.6797655289291589
+Land registration,Land Registration Data,1.2416487959520133
+Housing,Homelessness and rough sleeping,0.965172022628269
+Housing,Council housing and housing association,1.7051784692378944
+Housing,Being a landlord and renting out a room,0.7499901397257934
+Housing,"Repossessions, emergency housing and evictions",1.0919455971049419
+Housing,Housing for older and vulnerable people,0.8538802768404721
+Housing,Owning and renting a property,0.9982296079501052
+Housing,Freehold and leasehold property,0.262941903247527
+Housing,Tenancies and leases,0.7198733576242631
+Housing,Rented housing sector,0.5363724126211048
+Housing,Homebuying,0.6930821821762009
+Housing,Housing regulation,0.36845369667899036
+Housing,"Recycling, rubbish, streets and roads",0.01314435916415061
+Housing,Housing funding programmes,1.2331352741636785
+Housing,Safety and the environment in your community,0.4361668670885151
+Housing,"Neighbours, noise and pests",0.14237933079262746
+Planning and building,Landscape,0.10050722465546286
+Planning and building,Planning system,0.4011723419143209
+Planning and building,Land and development opportunities,0.4873178324505642
+Planning and building,Planning reform,0.15003007363605378
+Planning and building,Planning permission and appeals,0.34171109248254844
+Planning and building,House building,1.6426834008720277
+Planning and building,Building regulation,0.40648820279389525
+Planning and building,Local Plans,0.012678102965073665
+Planning and building,Housing design and sustainability,0.20005549923823443
+Planning and building,Environmental planning,1.001971704817583
+Planning and building,Party walls,1.036168738251333
+Planning and building,Energy efficiency in buildings,0.7464690168825113
+"Marriage, civil partnership and divorce",Help and support if you have children,0.7931905274037377
+"Marriage, civil partnership and divorce",Child maintenance,0.46341176682737045
+"Marriage, civil partnership and divorce",Getting separated or divorced,0.952874607182667
+"Marriage, civil partnership and divorce",Getting married,0.2175858656427102
+Death and bereavement,Death registration disclosure,1.1048649036970504
+Foreign affairs,Afghanistan,0.23173260146883712
+Foreign affairs,Peace and stability in the Middle East and North Africa,1.2410054703248532
+Foreign affairs,Falkland Islanders' right to self-determination,1.368647066499215
+Foreign affairs,Piracy off the coast of Somalia,2.1430552982741107
+Foreign affairs,UK Overseas Territories,0.3609206203096063
+Foreign affairs,Iran's nuclear programme,0.28888436293818065
+Foreign affairs,Conflict in fragile states,2.067083796637762
+International aid and development,Women and girls in developing countries,0.2120037096859158
+International aid and development,Health in developing countries,1.2761438374437983
+International aid and development,Governance in developing countries,0.6677309258335757
+International aid and development,Overseas aid transparency,0.1400782415859379
+International aid and development,Overseas aid effectiveness,0.45461948509845707
+International aid and development,Climate change impact in developing countries,0.372418932516346
+International aid and development,Economic growth in developing countries,1.2927563186147666
+International aid and development,Hunger and malnutrition in developing countries,0.10194866601667506
+International aid and development,Education in developing countries,0.48090209423593766
+International aid and development,Humanitarian emergencies,0.25303536144070926
+International aid and development,Water and sanitation in developing countries,1.1762596366397398
+Support services for military and defence personnel and their families,British Forces Post Office,0.08717503864380675
+Support services for military and defence personnel and their families,Housing and accommodation,0.2167665218036169
+Support services for military and defence personnel and their families,Pensions and compensation,1.3346849042813471
+Military awards and commemorations,Honours and awards,1.7053497468593157
+Military awards and commemorations,Veterans,0.9988618433599921
+Military awards and commemorations,Medals,1.3673492323478045
+Ministry of Defence estate,Military crash sites,1.0375457566280881
+Ministry of Defence estate,Sale of land,1.3677477231269197
+Ministry of Defence estate,Art collection,2.2550208574318633
+Ministry of Defence estate,Film locations,1.3401110500247644
+Ministry of Defence estate,Public access,1.9846604362580742
+Prisons and probation,Prisons healthcare,1.2324153700053384
+Prisons and probation,MAPPA,0.8034634916701804
+Legal aid,High cost and complex cases,1.4968249085138337
+Legal aid,Electronic working,0.22714362670414193
+Legal aid,Payments and processing,0.28978461395812616
+Legal aid,Tenders,0.7879156676884378
+Legal aid,Crime,0.27927787109105806
+Legal aid,Civil and crime contracts,1.3785000197411224
+Law and practice,Copyright,1.7768765379462803
+Law and practice,Patents,0.44403830590268945
+Law and practice,Designs,1.701091500154259
+Law and practice,Trade marks,0.3817232506470476
+Local government,Local government finance and capital assets,1.0603301930412508
+Local government,Local government pensions,1.702246778286554
+Local government,Council Tax,0.42619795217364886
+Local government,Local Housing Allowance,0.18981695525038775
+Local government,Business rates,2.8980395712068843
+Local government,Data collection and reporting,0.6014219380003668
+Local government,Councils and elections,1.145332918629156
+Wales,Welsh devolution,1.1426878762568409
+Wales,Economic growth in Wales,0.5918619347872394
+Northern Ireland,Northern Ireland economy,0.9580617194200093
+Northern Ireland,Northern Ireland political stability,0.7193848397055026
+Northern Ireland,Northern Ireland community relations,1.0781591350343873
+Northern Ireland,Northern Ireland security,1.4388970406750325
+Scotland,Scottish devolution,1.023125469478653
+Scotland,Scottish constitution,0.7028432476007442
+Community and society,National Lottery funding,1.5254493926508788
+Community and society,Social investment,0.1035439192450914
+Community and society,Social action,1.8972515827958556
+Community and society,Community integration,0.2436437499076205
+Arts and culture,Conservation of historic buildings and monuments,0.8956572254517009
+Arts and culture,Library services,1.3282018638319828
+Arts and culture,Museums and galleries,1.4054833716756212
+Sports and leisure,Community amateur sports clubs (CASCs),0.25577401919781584
+Sports and leisure,Recreation,0.0015260070057150652
+Sports and leisure,Sports participation,1.128389896180889
+Sports and leisure,Elite sports performance,0.03285634640672707
+Sports and leisure,2012 Olympic and Paralympic legacy,1.490132060263286
+"Equality, rights and citizenship",Equality,1.3586810613361622
+"Equality, rights and citizenship",Poverty and social justice,0.077965022191868
+"Equality, rights and citizenship",Social mobility,0.7088228901472444
+Brexit,Brexit guidance for UK citizens,0.019186606790071527
+"Government efficiency, transparency and accountability",Government spending,0.23180475950015542
+"Government efficiency, transparency and accountability",Major project management,1.0649220172835443
+"Government efficiency, transparency and accountability",Deficit reduction,0.25467278779951813
+"Emergency preparation, response and recovery",Fire prevention and rescue,0.38974988151804113
+Government technology and digital services,Buying technology,0.33516429518401963
+Government technology and digital services,Managing government websites,0.2415983391727812
+Government technology and digital services,Public Service Network (PSN),0.37271516539169947
+Government technology and digital services,User research,0.796611515875538
+Government technology and digital services,Digital transformation,0.1775165757436853
+Government technology and digital services,APIs and app development,0.2563172828414246
+Government technology and digital services,Digital security,0.5573514346941584
+Government technology and digital services,Open source and open standards,0.436744825259011
+Government technology and digital services,GOV.UK services,1.1393197848502563
+Government technology and digital services,Networks and telecommunications,2.1988887147686422
+Government technology and digital services,Data,1.9837523517619566
+Government technology and digital services,Design and build of government services,1.0347995782655854
+Europe,European single market,1.2326916887387263
+Europe,European Union laws and regulation,0.1582992063240271
+Europe,European funds,0.9543940238119536
+Democracy,Voting,1.3278549501021937
+Democracy,Constitutional affairs,0.3865891129903212
+Democracy,Legislative process,0.17922766611006802
+Government reform,Postal service reform,1.3405023332378931
+Government reform,Civil service reform,1.030796095108033
+Self-employment,Tax and National Insurance,0.5157116518422259
+Self-employment,Paying HMRC,0.5875002928191367
+Self-employment,Stopping or selling your business,0.6446058920763774
+Self-employment,Managing expenses,1.7602157186672343
+Self-employment,Self Assessment,0.5068780594514916
+"Working, jobs and pensions",Recruiting and hiring,1.2175025737179894
+"Working, jobs and pensions",Finding a job,1.585856545036573
+"Working, jobs and pensions","Your pay, tax and the National Minimum Wage",0.3928771170038966
+"Working, jobs and pensions",Workplace bullying and harassment,1.2238890432871086
+"Working, jobs and pensions","Holidays, time off, sick leave, maternity and paternity leave",0.553871626404775
+"Working, jobs and pensions",Workplace and personal pensions,0.727036997252894
+"Working, jobs and pensions",Your rights at work and trade unions,0.4059396739788456
+"Working, jobs and pensions",State Pension,0.2539528075334332
+"Working, jobs and pensions",Contracts and working hours,0.4969141060725962
+"Working, jobs and pensions","Redundancies, dismissals and disciplinaries",1.2727376907391221
+Pensions and ageing society,Older people,0.6477327483724137
+Pensions and ageing society,Public service pensions,1.4206316653951918
+Pensions and ageing society,Automatic enrolment in workplace pensions,0.31843756373726084
+Pensions and ageing society,State Pension simplification,1.1647606163173623
+Pensions and ageing society,State Pension age,0.1515891648721379
+Money laundering regulations,Registration for specific business types,0.3011682542804483
+Money laundering regulations,Your role under the regulations,1.2842473530948981
+Money laundering regulations,Problems and compliance checks,1.134173996375918
+Business tax,Climate Change Levy,1.9965784256411434
+Business tax,Business tax reform,1.475671300689815
+Business tax,VAT,0.32516674966639075
+Business tax,Fuel Duty,1.4764629102775797
+Business tax,Alcohol duties,0.3475387060879396
+Business tax,Pension scheme administration,0.5319330196947833
+Business tax,International tax,0.5632311313491151
+Business tax,Stamp duty and other tax on property,0.631028057560088
+Business tax,Investment schemes,0.1601955560768578
+Business tax,Landfill Tax,0.37456320019129263
+Business tax,Corporation Tax,0.3398331643709385
+Business tax,Gambling duties,0.9207457623391968
+Business tax,Employment related securities,1.494293051593571
+Business tax,Construction Industry Scheme (CIS),0.9230000887797452
+Business tax,Tobacco Products Duty,1.3675263325446663
+Business tax,Aggregates Levy,0.5215351982274088
+Business tax,Air Passenger Duty,1.3690648130226246
+Business tax,Capital allowances,2.310016599912888
+Business tax,Stamp duty on shares,1.2194347824507212
+Business tax,IR35: working through an intermediary,0.11293001493958578
+Business tax,Life insurance policies,0.7070308560004095
+Business tax,Insurance Premium Tax,0.5051203601553298
+Business tax,PAYE,1.4248716296807111
+Business tax,Large and mid-size business,0.6297088642257214
+Dealing with HMRC,Paying HMRC,1.1926565073255924
+Dealing with HMRC,Tax agent and adviser guidance,1.9671077310252902
+Dealing with HMRC,Complaints and appeals,0.9777180974386203
+Dealing with HMRC,Phishing and scams,0.9855926891336981
+Dealing with HMRC,Tax compliance,0.11116419934374687
+Dealing with HMRC,Tax avoidance,1.2750191162395879
+Dealing with HMRC,Shared Workspace service,0.15325096197314886
+Dealing with HMRC,Software development for HMRC,0.08990291268793071
+Personal tax,Living or working abroad or offshore,0.5514018584999122
+Personal tax,Tax on savings and investments,0.8090917884050027
+Personal tax,Leaving the UK,1.485077994658083
+Personal tax,Non-resident landlord scheme,0.7411515379536174
+Personal tax,Trusts,1.1902876431322176
+Personal tax,Inheritance Tax,0.10903236887626451
+Personal tax,Self Assessment,0.6099450990186448
+Personal tax,Income Tax,0.9168195415598696
+Personal tax,Capital Gains Tax,1.9636236949400843
+Personal tax,Coming to the UK,0.057802804115856636
+Personal tax,National Insurance,1.3315457033812044
+Personal tax,Foreign entertainer tax rules,1.3006013137291634
+Personal tax,Personal tax reform,0.7573948031565017
+Running a business,Business finance and support,1.0527072898611318
+Running a business,Business premises and business rates,0.25887524090075176
+Running a business,Limited companies and partnerships,1.1616209218732072
+Running a business,Employing people,1.2499660192237123
+Running a business,Business licensing,0.31196129284105856
+Running a business,Business debt and bankruptcy,0.3606119125960202
+Running a business,"Business auditing, accounting and reporting",0.8903628444220503
+Business regulation,State aid,0.13780508704815575
+Business regulation,Competition,1.8784041741547715
+Business regulation,Intellectual property,0.10292522365330309
+Business regulation,Alcohol licensing,0.11577884458082878
+Business regulation,Product safety,0.5282203698241751
+Business regulation,Energy industry and infrastructure licensing and regulation,0.8696393202758926
+Business regulation,Sale of goods and services and data protection,1.0126587892249983
+Business regulation,Regulation reform,1.838917080980522
+Business regulation,Consumer rights and issues,1.1673518454186984
+Charities and social enterprises,Community interest companies,0.20844679853077375
+Charities and social enterprises,"Charity money, tax and accounts",2.6626611858014253
+Charities and social enterprises,Fundraising,1.0497546140252334
+Charities and social enterprises,Trustee role and board,1.0565974803273634
+Science and innovation,Animal research and testing,0.310133088687638
+Science and innovation,Research and development,0.15753848898671585
+Science and innovation,Scientific research and development,0.4552121359613359
+Trade and investment,Overseas businesses: exporting to the UK,1.1793933175857674
+Trade and investment,"Customs declarations, duties and tariffs (import and export)",1.2744366820143886
+Trade and investment,Digital trade,0.4060487786446295
+Trade and investment,Exporting,0.5174473924802283
+Trade and investment,Trade barriers,2.51612228126357
+Trade and investment,Importing,0.040519057703404464
+Trade and investment,Inward investment,0.5677043318735171
+Trade and investment,Outward investment,0.5479639033653173
+Trade and investment,Free trade,0.551100055656006
+UK economy,UK economic growth,1.3824431093218619
+UK economy,City deals and growth deals,2.137487569482166
+UK economy,Regional growth fund,0.5395870877384571
+UK economy,High streets and town centres,0.4147170401846756
+Business and the environment,UK energy security,0.3308216725179485
+Business and the environment,Energy demand reduction,1.0118704781639687
+Media and communications,Communications and telecomms,0.9213030412132585
+Media and communications,Broadband investment,0.9532168226547054
+Media and communications,Media and creative industries,0.5196334423674956
+Financial services,Access to financial services,0.20766843628747775
+Financial services,Financial services regulation,0.5144500870758341
+Financial services,Bank regulation,0.14903800184806193
+Social care,End of life care,0.24062628710313097
+Social care,Carers' health,0.09898546239823505
+Social care,Health and social care integration,1.5509591506113278
+Disabled people,Disability equipment and transport,0.34600104482119587
+Disabled people,Carers,0.7602065850659823
+Disabled people,Disability rights,0.9849996064831419
+Disabled people,Benefits and financial help,0.4258121706639214
+National Health Service,Health workforce,0.9587166323886439
+National Health Service,Patient safety,0.40393436583669706
+National Health Service,NHS efficiency,1.778171561192416
+National Health Service,Compassionate care in the NHS,1.0260049724140599
+Public health,Human fertilisation and embryology,0.9491486163494404
+Public health,Sexual health,0.6660457867240551
+Public health,Health protection,0.2365323154122128
+Public health,Population screening programmes,0.5137440287666788
+Public health,Abortion,1.017242019916131
+Public health,Ophthalmology,0.2081275108106784
+Public health,Dentistry,1.15875166875504
+Public health,Health conditions,0.15466638648482903
+Public health,Mental health,0.07613231626873208
+Public health,Health improvement,0.1837445658912846
+"Medicines, medical devices",Pharmacy,0.08115069985542023
+"Medicines, medical devices","Marketing authorisations, variations and licensing guidance",1.070272185353127
+"Medicines, medical devices","Good practice, inspections and enforcement",0.7193569918886519
+"Medicines, medical devices","Manufacturing, wholesaling, importing and exporting medicines",2.0165426434145566
+"Medicines, medical devices",Herbal and homeopathic medicines,0.716288065892001
+"Medicines, medical devices","Vigilance, safety alerts and guidance",0.6530738945686206
+"Medicines, medical devices",Medical devices regulation and safety,0.7215864731065645
+"Medicines, medical devices",Conferences and events,0.5739440140200475
+"Medicines, medical devices",Clinical trials and investigations,2.4029531069766525
+Further education financial management and data collection,Financial management for further education providers,0.4956830679049163
+Further education financial management and data collection,Local authority further education financial reporting and assurance,0.5712603827656674
+Further education financial management and data collection,Data collection for further education providers,1.3227622093893503
+Further and higher education courses and qualifications,Principal learning qualifications,0.3097634183415345
+Further and higher education courses and qualifications,Functional skills,0.3527847866599045
+"Apprenticeships, traineeships and internships",Types of apprenticeships,1.1360510313002892
+"Apprenticeships, traineeships and internships",Hiring and training an intern or trainee,0.255103298808658
+"Apprenticeships, traineeships and internships",Becoming an apprentice,0.9591372889820426
+"Apprenticeships, traineeships and internships",Hiring and training an apprentice,1.48459626128485
+"Apprenticeships, traineeships and internships",Becoming an intern or trainee,1.1581368057863715
+Further education funding,Adult education funding,0.5958617011537396
+Further education funding,Apprenticeships funding,1.5947667230966642
+Further education funding,Further education buildings and land,0.3102994668472783
+Further education funding,European Social Fund (ESF) and skills funding,1.2384163073604142
+Further education funding,Free meals for 16 to 18 year olds,0.8715324332957795
+Further education funding,Further education funding data,1.0126895863203196
+Further education funding,Dance and drama funding for 16 to 19 year olds,1.328907072345225
+Further education funding,Administering student funding,0.47472934946015455
+Teacher training and professional development,Qualified Teacher Status (QTS),0.6212462219032971
+Teacher training and professional development,Initial Teacher Training (ITT),0.10142149360646012
+Teacher training and professional development,School leadership,0.2619254331910043
+Inspection and performance of further education providers,Inspection of residential provision in further education colleges,0.611475511924964
+Inspection and performance of further education providers,Further education intervention notices and reports,2.4212795226834065
+Inspection and performance of further education providers,Further education provider performance measures,0.30780885434648125
+Inspection and performance of further education providers,Student performance in further education,0.08218285381731312
+Inspection and performance of further education providers,Inspection of further education and skills providers,0.06560916731362407
+Inspection and performance of further education providers,Performance data and Ofsted reports of further education providers,0.8163699729227244
+Inspection and performance of schools,Inspection of non-maintained schools,0.6651645577098715
+Inspection and performance of schools,Pupil performance in schools,1.6102840609972269
+Inspection and performance of schools,School intervention notices and reports,1.718813933266958
+Inspection and performance of schools,Inspection of independent schools,0.2845139909226462
+Inspection and performance of schools,School performance measures,1.2322388736864394
+Inspection and performance of schools,Inspection of British schools overseas,0.9150345839581631
+Inspection and performance of schools,Inspection of maintained schools and academies,0.8430022681445288
+Inspection and performance of schools,Inspection of boarding and residential schools,0.21429694128697108
+Inspection and performance of schools,School performance tables and Ofsted reports,0.4143580674606342
+Inspection and performance of schools,Inspection of local authority support for schools,0.9721625540185092
+Setting up or changing the status of a school,Set up and develop a multi-academy trust (MAT),0.9391954674188843
+Setting up or changing the status of a school,Set up a free school,0.6879058867297315
+Setting up or changing the status of a school,Set up or convert to an academy,1.2912494828778274
+School buildings and land,School buildings and land guidelines,0.6122880655433576
+School buildings and land,School buildings and land transactions,0.5509748729806646
+School buildings and land,School places,0.7403554768659211
+Data collection and censuses for schools,School workforce censuses,0.670600108978818
+Data collection and censuses for schools,School preference and admission appeals data collection,0.27002649287538716
+Data collection and censuses for schools,School censuses and school-level annual school censuses (SLASC),0.012640257853124014
+Data collection and censuses for schools,Phonics screening checks,1.4092735151408826
+Data collection and censuses for schools,Key stage 1 and 2 assessments data collection,1.346420861240936
+Data collection and censuses for schools,General hospital school censuses,0.7210381487636551
+Data collection and censuses for schools,School exclusion reviews,0.208632109028849
+Data collection and censuses for schools,Special educational needs surveys,0.4993790163885207
+Data collection and censuses for schools,Alternative provision censuses,1.3004018810485294
+Data collection and censuses for schools,Parental responsibility measures attendance censuses,0.2528618109982831
+Data collection and censuses for schools,School capacity surveys,1.6249192447345575
+Key stage 5 (AS and A Levels),"Key stage 5 exam marking, qualifications and results",2.3953676010577016
+Key stage 5 (AS and A Levels),AS and A level changes and reforms,1.322390541769763
+Key stage 5 (AS and A Levels),AS and A level subject content and requirements,0.035897674960577254
+"Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",GCSE subject content and requirements,0.6989173933389113
+"Secondary curriculum, key stage 3 and key stage 4 (GCSEs)","Key stage 3 and 4 exam marking, qualifications and results",0.3294440471656798
+"Secondary curriculum, key stage 3 and key stage 4 (GCSEs)",GCSE changes and reforms,0.3642017757829517
+"Primary curriculum, key stage 2",Tests and assessments (key stage 2),1.6592847059910103
+"Primary curriculum, key stage 2",English (key stage 2),0.7313600413428735
+"Primary curriculum, key stage 2",Science (key stage 2),1.2926138419279392
+"Primary curriculum, key stage 2",Maths (key stage 2),1.395743701968393
+"Primary curriculum, key stage 2",Programmes of study (key stage 2),0.7882954073163045
+"Primary curriculum, key stage 1",Tests and assessments (key stage 1),1.0141178599128573
+"Primary curriculum, key stage 1",Phonics,0.07933768302959451
+"Primary curriculum, key stage 1",Maths (key stage 1),2.225074756579558
+"Primary curriculum, key stage 1",Science (key stage 1),0.4152617503584647
+"Primary curriculum, key stage 1",Programmes of study (key stage 1),0.47934604486016624
+Initial Teacher Training funding,School Direct funding,0.743742510543576
+Initial Teacher Training funding,Subject Knowledge Enhancement (SKE) funding,0.16265481588859557
+Funding for different types of schools and settings,Academy funding,0.08149978870079301
+Funding for different types of schools and settings,Early years funding,1.3805629459834305
+Funding for different types of schools and settings,Funding for 16 to 19 year olds in schools,1.7686189522972375
+Funding for different types of schools and settings,Local authority schools funding,0.34364493181168676
+Funding for different types of schools and settings,Alternative provision funding,0.9939504489614465
+Funding for different types of schools and settings,Special schools funding,0.03216686603260706
+Providing childcare,Funding and finance for childcare providers,0.6344674265455146
+Providing childcare,"Children's centres, childminders, pre-schools and nurseries",0.3687106290748579
+Providing childcare,Performance and inspection of childcare providers,1.0085492071358353
+Providing childcare,Recruiting and managing early years staff,0.33483074205960284
+Providing childcare,Becoming a childcare provider,0.5964538615507569
+Providing childcare,Early years curriculum (0 to 5),0.30468512770772976
+Data collection for early years and childcare,Early years census,0.09347179478961513
+Data collection for early years and childcare,Early years foundation stage profile return,0.8818323437789732
+Safeguarding and child protection,Data collection for safeguarding and child protection,0.7626399449440536
+Safeguarding and child protection,Child abduction and cross-border child protection,0.09651008268275463
+Safeguarding and child protection,Serious case reviews,0.31395692996492564
+Safeguarding and child protection,"Refugee, runaway and homeless children",0.2708287276189449
+Safeguarding and child protection,"Preventing neglect, abuse and exploitation",0.491264255642104
+Looked-after children and children in care,"Health, wellbeing and education of looked-after children",2.529153693881523
+Looked-after children and children in care,Data collection for looked-after children,0.15440887614726115
+Looked-after children and children in care,Children's homes and other accommodation,1.4351897510528344
+Looked-after children and children in care,Children and young people leaving care,0.725081613731767
+Children's social care providers,Becoming a children's social care provider,0.8120195971084628
+Children's social care providers,Social care provider complaints,1.0206772128577424
+Children's social care providers,Inspection of children's social care providers,0.24332382745215506
+Rail franchising,Rail franchise procurement,0.11979872194433845
+Rail franchising,Rail franchise public register,0.6695036355619927
+HS2,HS2 archaeology,1.1754698572009108
+HS2,HS2 and the environment,3.1308432664495025
+HS2,HS2 corporate,0.229008618132733
+HS2,HS2 property,1.7559653260684662
+HS2,HS2 business case,1.2689810890376476
+HS2,HS2 construction and engineering,1.9695224228835062
+HS2,HS2 supply chain,1.3516274822327239
+HS2,HS2 stations,0.49913016284084333
+HS2,HS2 stakeholder and community engagement,0.4769681274232443
+HS2,HS2 design,0.1805395931079773
+HS2,HS2 additional provisions,0.8999067274631499
+HS2,HS2 legislation,0.7293198175910491
+HS2,HS2 costs,0.42250362081103715
+HS2,HS2 Phase Two,0.8236489299877836
+HS2,HS2 Phase One,0.4311689571042411
+HS2,HS2 planning,0.04502135996662908
+"Vehicle ownership, approval and standards",Driver and vehicle record,0.4779349625829396
+"Vehicle ownership, approval and standards",Vehicle import and export,0.8586516709706131
+"Vehicle ownership, approval and standards",Vehicle tax,1.04476782905986
+"Vehicle ownership, approval and standards",Vehicle insurance,2.1739786271071853
+"Vehicle ownership, approval and standards",MOTs,1.2371258811917236
+"Vehicle ownership, approval and standards",Vehicle manufacturing and modification,1.4719938217735566
+"Vehicle ownership, approval and standards",Vehicle recalls,0.9277758486102367
+"Vehicle ownership, approval and standards",HGV standards and checks,1.1841411117083676
+"Vehicle ownership, approval and standards","Vehicle registration, log books and number plates",0.2309930022273719
+"Vehicle ownership, approval and standards",PSV standards and checks,1.096882239887728
+"Vehicle ownership, approval and standards","Buying, selling, registering and scrapping a vehicle",0.039165668505228235
+Driving and motorcycle tests,Motorcycle training,1.1475168600543062
+Driving and motorcycle tests,Theory tests,0.6821060553360919
+Driving and motorcycle tests,"Lorry, bus, coach and specialist vehicle driving tests",1.0429208494388746
+Driving and motorcycle tests,Car driving tests,1.3088490731162377
+Driving and motorcycle tests,Motorcycle and moped tests,0.9731371466249347
+Driving licences,Personal driving licence information,1.121909334739996
+Driving licences,Driving licence categories,0.11512210098555152
+Driving licences,Foreign driving licences,0.8281659044781532
+Driving licences,Driving abroad,0.739442713594927
+Driving licences,Driving licences and medical conditions,0.8249133621977489
+Driving licences,Driving licence applications and renewals,0.10412574124057507
+"Road safety, driving rules and penalties",Driving and medical conditions,0.24470908372774497
+"Road safety, driving rules and penalties",Driving and mobile phones,0.40456026918986027
+"Road safety, driving rules and penalties",Seat belts,1.4608932365033347
+"Road safety, driving rules and penalties",Speeding,1.3088773342598845
+"Road safety, driving rules and penalties","Penalty points, fines and driving bans",0.2401481893850151
+"Road safety, driving rules and penalties",Towing,0.3943020938077255
+"Road safety, driving rules and penalties",Drivers' hours,1.6143720105504944
+"Road safety, driving rules and penalties",Drink and drug driving,0.9118389620730519
+"Road safety, driving rules and penalties",Road accidents and serious accidents,0.674055184620354
+Driving instruction and driving lessons,Driving examination,0.5296248016978979
+Driving instruction and driving lessons,"Driving, motorcycle and LGV instructor qualification process",0.4235076893653073
+Driving instruction and driving lessons,Professional development for driving and motorcycle instructors,0.08189160084476671
+Driving instruction and driving lessons,Driving instructor registration and renewals,0.9607974725087214
+"Professional driving of lorries, buses and coaches",EU and international driving rules,2.004589562864321
+"Professional driving of lorries, buses and coaches",Tachographs,0.5122764733515028
+"Professional driving of lorries, buses and coaches",Driver CPC training,1.0540609103002125
+Transport businesses and vehicle operator licences,Fleet management,0.04283599874009188
+Transport businesses and vehicle operator licences,Driver CPC training centres,0.19341021021426805
+Transport businesses and vehicle operator licences,Vehicle operator licences,0.1458053406550092
+Transport businesses and vehicle operator licences,Employing drivers,1.2470761504332968
+Road transport and the environment,Renewable fuels,0.2673455823686689
+Road transport and the environment,Low emission and electric vehicles,0.10598159652165764
+Road transport and the environment,Road transport emissions,0.6496940813925989
+Transporting dangerous goods,Safe transport of dangerous goods by road and rail,0.6948149437951443
+Transporting dangerous goods,Safe transport of dangerous goods by sea,1.744756820456527
+Road improvement and investment,Major roads,0.6843248054010288
+Road improvement and investment,Motorways,1.2862995251299143
+Road improvement and investment,Local roads,0.7735903064878115
+Road improvement and investment,Making roads safer,1.4108942522668455
+Road improvement and investment,Road resurfacing,1.0454116182315765
+Road works and street works,Road closures,1.0851168237475488
+Road works and street works,Weekend closures,0.21016425614514056
+Road works and street works,Planned roadworks,0.8621181846371534
+Road works and street works,Overnight works,1.1318478147097017
+Road works and street works,Property affected by roadworks and street works,1.8365578493869956
+"Seafarer management, training and certification",Employment of seafarers,0.6462970417384115
+"Seafarer management, training and certification",Ship crew training and certification,0.9093343347753384
+"Seafarer management, training and certification",Ship crew health and safety,0.04994599641475704
+Maritime safety,Safe and compliant operation of vessels,0.9161436487360622
+Maritime safety,Life saving appliances (LSA),0.7517553630451835
+Vessel registration and design,Vessel design,1.0006868118996421
+Vessel registration and design,Vessel registration,0.5187558418223641
+Vessel registration and design,Ship equipment,0.44489713984226376
+New aviation technology,Drones,0.22634446898663202
+New aviation technology,Spaceflight,0.5367543134902752
+Buses,Buses and the environment,0.25963514603384086
+Buses,Bus operators,0.3902979571219884
+Buses,Bus passenger experience,0.20564810951698162
+Buses,Improvements to buses,0.19396035063692696
+Buses,Bus accessibility,0.18513083611024322
+Buses,"Bus services, routes and timetables",0.247022175316294
+Countryside,Access to the countryside,0.9207751646512979
+Countryside,"Parks, trails and nature reserves",0.0395302826513994
+Rural development and land management,Commons and greens,0.6064154964503489
+Rural development and land management,Pollution,1.3216420925426986
+Rural development and land management,Protected sites,0.7404009532175322
+Rural development and land management,"Weeds and invasive, non-native plants",0.658081435146501
+Rural development and land management,Hedgerows,1.7923929948787025
+Rural development and land management,Farming,0.8850351940627631
+Rural development and land management,Contaminated land,0.3217536775418197
+Rural development and land management,Economic growth in rural areas,0.8352736073760484
+Rural development and land management,Rural economy and community,0.07912126127451098
+Protected sites and species,Marine sites and species,0.9403630291554727
+Protected sites and species,Land sites,0.02794522718802093
+Protected sites and species,Land species,0.9147096072404242
+Wildlife and habitat conservation,Birds,1.172759875617704
+Wildlife and habitat conservation,Fish and shellfish,0.584605142607007
+Wildlife and habitat conservation,Plants,0.7899432551270043
+Wildlife and habitat conservation,Invertebrates,0.23486594980721823
+Wildlife and habitat conservation,Reptiles and amphibians,0.05393543211289011
+Wildlife and habitat conservation,Mammals,0.06337953510346102
+"Fishing regulations, monitoring and enforcement",Catch Quota Trials,0.9343363904351965
+"Fishing regulations, monitoring and enforcement",First sale marine fish,0.3361327493875614
+"Fishing regulations, monitoring and enforcement",Fisheries statistics,0.6749518059179364
+"Fishing regulations, monitoring and enforcement",Sales notes and electronic recording systems,0.03510274555844721
+"Fishing regulations, monitoring and enforcement",Fishing quota and catch limits,0.7941996644169551
+Fishing vessels,Vessel and crew safety and certification,0.6554537601064349
+Fishing vessels,Vessel surveys and inspections,0.7903237479966009
+Fishing vessels,Vessel licensing,1.4877714841797207
+Fishing vessels,Vessel monitoring systems,1.1688180605928502
+Fishing vessels,Vessel licensing and lists,1.1846010233102315
+Oil and gas finance and taxation,Market values,0.029775419972479556
+Oil and gas finance and taxation,Tax and profits,0.543035931634629
+Coal,Mine water management,0.7772864995687402
+Coal,Mining reports and data,1.5382132980972154
+Coal,Property and development,0.36632050649833503
+Coal,Mining permits and licences,0.7424378830780628
+Keeping farmed animals,Cattle deaths,0.5615563637762812
+Keeping farmed animals,Deer farming,0.24412653807290888
+Keeping farmed animals,"Pig identification, registration and movements",1.592906071825008
+Keeping farmed animals,"Shows, fairs and markets",1.8368083436933185
+Keeping farmed animals,Veterinary medicines,0.5418567644601908
+Keeping farmed animals,Poultry registration,1.251464967937701
+Keeping farmed animals,"Sheep and goats identification, registration and movements",0.6525875886940891
+Keeping farmed animals,Import and export of farmed animals,0.588218220934965
+Keeping farmed animals,"Cattle identification, registration and movements",0.1504586588267525
+Keeping farmed animals,Reporting disease and disease outbreaks,1.8561853555758203
+Keeping farmed animals,Bovine tuberculosis (bovine TB),0.37198172003017344
+Producing and distributing food,Crops and horticulture,1.1289920700497948
+Producing and distributing food,Food labelling and safety,0.03728575282900757
+Producing and distributing food,"Import, export and distribution of food",0.050304923771987496
+Producing and distributing food,Meat production,0.36748479488242
+Producing and distributing food,Dairy and milk production,3.6036734598871045
+Producing and distributing food,Sugar,0.9357354576528679
+Producing and distributing food,Egg production and marketing,0.06701077030341714
+Farming and food grants and payments,Intervention schemes,0.7709652124468201
+Farming and food grants and payments,Rural grants and payments,0.640588848976531
+Farming and food grants and payments,School milk scheme,0.4035811262433388
+Farming and food grants and payments,Private storage aid,1.1181057263398437
+Business and mortgage services,Mortgage services,0.0927060682541195
+Business and mortgage services,Spatial data,0.5704569262397613
+Business and mortgage services,Ownership verification,1.4016785189977552
+Business and mortgage services,Risk management,0.46717506362557615
+Business and mortgage services,Conveyancing services,0.011614660247651338
+Business and mortgage services,Property portfolio management,1.304389905749527
+Council Tax,Renting,0.25959539585053165
+Council Tax,Council Tax bands,0.5987413859612771
+Council Tax,Appeals and reductions,1.1475503088114458
+Council Tax,Council Tax reform,1.0129870932845886
+Business rates,Your rateable value,1.888475517563103
+Business rates,"Relief, refunds and rebates",0.8006625641172067
+Business rates,Submit your rent or lease details,1.3964485477280864
+Brexit guidance for UK citizens,Visit Europe after Brexit,1.0518345894088696
+Government spending,Government funding programmes,1.287216849596578
+Buying technology,Digital Marketplace,1.6194620843000866
+Buying technology,Digital outcomes and specialists framework,0.21954929028256676
+Managing government websites,Hosting your service,0.011923531290425815
+Digital transformation,Smarter working,1.2487398534207723
+Digital transformation,Green technology,0.5470475691173602
+Digital transformation,Job roles and talent acquisition,0.10654455853621791
+Digital transformation,Cloud strategy,1.887335740746646
+Digital transformation,Legacy,0.16527360819822687
+APIs and app development,APIs,0.4779238685551294
+APIs and app development,Application development,1.0222751422172187
+Digital security,End user devices,0.2385446416848012
+Digital security,Risk management,0.7354630356700962
+Digital security,Cloud security,1.5954450092136248
+Digital security,Email,1.9996757325628987
+Digital security,Passwords,1.9523362327782718
+Digital security,Phishing,0.19022367462360518
+Digital security,Identity assurance,0.21316308126201539
+Digital security,Digital service security,0.3111753682541304
+Open source and open standards,Open standards,0.29731134604341924
+Open source and open standards,Open source,0.9148141153407833
+GOV.UK services,Performance platform,1.0672482289719538
+GOV.UK services,GovWifi,0.6168374486815911
+GOV.UK services,GOV.UK Pay,0.8448362859068149
+GOV.UK services,GOV.UK Registers,0.7002452982706149
+GOV.UK services,GOV.UK Proposition,0.5620495780104703
+GOV.UK services,GOV.UK Platform as a Service (PaaS),0.1719781213927677
+GOV.UK services,GOV.UK Verify,1.4577411315290338
+GOV.UK services,GOV.UK Notify,0.3665006919622284
+Networks and telecommunications,Telecommunications,0.05753529771480571
+Networks and telecommunications,Networking,0.0552595991979211
+Data,Data usage,1.6660138725064693
+Data,Data provisioning,0.20910799714360004
+Design and build of government services,Digital Service Standard,0.3597686976465844
+Design and build of government services,Design principles,2.3444519118979676
+Design and build of government services,Government content and publishing,0.03190417228551132
+VAT,Accounting for VAT,0.1160967117840301
+VAT,Exporting goods and services,0.6036028031622497
+VAT,Paying,1.0251465645031983
+VAT,Exchange rates,1.882763911146886
+VAT,Overseas businesses and UK VAT,0.677542200348503
+VAT,VAT MOSS,0.3765359603770778
+VAT,Charging VAT,0.6947468032429756
+VAT,Rules for particular trades,0.24725405423939556
+VAT,VAT returns,0.09952970834759836
+VAT,Importing goods and services,1.023650388104222
+VAT,Reclaiming VAT on a new home,0.3679670940758951
+Fuel Duty,Moving and storing goods,0.2619941430876527
+Fuel Duty,Payments and reliefs (Fuel duty),3.5887751804726276
+Alcohol duties,Moving and storing goods,1.0329089429456022
+Alcohol duties,Payments and reliefs (Alcohol duty),1.5745003646712707
+Pension scheme administration,Administering a pension scheme,1.1601112198450867
+Pension scheme administration,Tax on pensions,1.1494515450876375
+Pension scheme administration,Pension scheme trustees,0.7497983761662056
+Pension scheme administration,Paying into a pension scheme,0.6054356253548762
+Pension scheme administration,Overseas schemes,0.768407538627953
+International tax,Oil and gas,0.5881274921650234
+International tax,Shipping,0.15607662396803107
+International tax,Double taxation,0.04617482862757879
+Stamp duty and other tax on property,Stamp Duty before December 2003,1.0550767068479978
+Stamp duty and other tax on property,Pay your SDLT bill,2.1763271397638153
+Stamp duty and other tax on property,SDLT on specific transactions,1.3254017272090741
+Stamp duty and other tax on property,Annual Tax on Enveloped Dwellings,0.5441864066945523
+Stamp duty and other tax on property,Filing a SDLT return,0.14214438548814812
+Investment schemes,Collective Investment Schemes,1.415277646764831
+Investment schemes,Venture capital schemes,1.1952710985321617
+Landfill Tax,Payments and reliefs (landfill tax),0.35844114690385265
+Corporation Tax,Preparing accounts for Corporation Tax,0.9284522543753596
+Corporation Tax,Changes to your company,0.04484802027664603
+Corporation Tax,Working out your Corporation Tax,0.7011389665730935
+Corporation Tax,Filing your return,0.2304395323853062
+Corporation Tax,Reliefs,0.89977378287102
+Corporation Tax,Payments and refunds,0.26722792017841585
+Gambling duties,Bingo Duty,0.25684364747958377
+Gambling duties,Lottery Duty,0.5277100050779597
+Gambling duties,Gaming Duty,0.5564112991332549
+Gambling duties,Machine Games Duty,0.006810006771337057
+Gambling duties,"General Betting Duty, Pool Betting Duty and Remote Gaming Duty",0.37587493438768765
+Gambling duties,Paying HMRC,0.08178761981019925
+Employment related securities,National Insurance transfers,1.8058039178943548
+Employment related securities,Returns and notifications,0.47381889753173073
+Employment related securities,Asset valuation,1.210626172408698
+Employment related securities,SAYE bonus rates,1.3632416275402914
+Construction Industry Scheme (CIS),Contractors,0.8746929973815736
+Construction Industry Scheme (CIS),Payments,0.5173774789728549
+Construction Industry Scheme (CIS),Subcontractors,0.6224020279299025
+Tobacco Products Duty,Moving and storing goods,0.24789797307278263
+Tobacco Products Duty,Payments and reliefs (tobacco products duty),1.3610362610619058
+Aggregates Levy,Payments and reliefs (aggregates levy),0.2933672065778953
+Stamp duty on shares,Stamp tax on paper shares,0.25603304954278006
+Stamp duty on shares,Stamp tax on electronic shares,0.37305880481527404
+IR35: working through an intermediary,Employment intermediaries,0.3128884707967059
+IR35: working through an intermediary,Off-payroll working rules,0.9109762365372649
+IR35: working through an intermediary,Employment status,1.0971748192859925
+Insurance Premium Tax,Paying Insurance Premium Tax,1.5083457388173058
+PAYE,Registering and getting started,0.8135582800437476
+PAYE,Paying HMRC,1.1904868727549232
+PAYE,Annual PAYE and payroll tasks,1.7037268127081115
+PAYE,"Employees joining, leaving or changing their circumstances",1.0452600295484127
+PAYE,Expenses and benefits,0.730377780501029
+PAYE,Changes to the business that affect PAYE,1.8604864450103595
+PAYE,Statutory pay and leave,1.1472357298306315
+PAYE,Special types of employee pay,0.6588131580807493
+Large and mid-size business,Mid-sized businesses,0.18959674757032505
+Large and mid-size business,Large businesses,1.7786160976975505
+Paying HMRC,Inheritance Tax,1.5573201643725703
+Paying HMRC,Pension schemes,0.3792280475268699
+Paying HMRC,Tax credit overpayments,0.6792649088067105
+Paying HMRC,Alcohol duties,1.3060205833927392
+Paying HMRC,Child Benefit overpayments,0.3488980379739061
+Paying HMRC,Property taxes,1.6598103369170931
+Paying HMRC,Corporation Tax,1.5164039672242617
+Paying HMRC,Money laundering regulation fees,0.4695814539380999
+Paying HMRC,Shares,0.9269574864131214
+Paying HMRC,VAT,0.10322905608808937
+Paying HMRC,Transport and environmental duties,0.8615359769852126
+Paying HMRC,Payment problems,0.6566439502641894
+Paying HMRC,Construction Industry Scheme (through PAYE),0.042591597938275244
+Paying HMRC,Insurance Premium Tax,0.9192741316474348
+Paying HMRC,Capital Gains Tax,0.5145931910569773
+Paying HMRC,Income Tax and National Insurance,0.04788379390575679
+Paying HMRC,Gambling duties,1.541771698344239
+Paying HMRC,PAYE,0.6695737873111046
+Tax agent and adviser guidance,Working with HMRC - joint initiatives,0.15681691424120556
+Tax agent and adviser guidance,Appeals and penalties,0.06529232647687634
+Tax agent and adviser guidance,Agent authorisation,2.242071245619914
+Tax agent and adviser guidance,Compliance checks,0.7665520209413145
+Tax agent and adviser guidance,Money laundering regulations,0.4439953593015935
+Tax compliance,Disclosing offshore income,0.27146385421466596
+Tax compliance,Reporting tax evasion,0.4862244711467661
+Tax compliance,International agreements and FATCA,0.4051184608817606
+Tax compliance,Disputes,0.15373490813466326
+Tax compliance,Clearances and approvals,0.3412064250318242
+Tax compliance,Non-payment and fraud,1.4138945189163965
+Tax compliance,Compliance checks,1.51586211138592
+Tax avoidance,Identifying avoidance schemes,0.4658350697623121
+Tax avoidance,Disclosing avoidance schemes,0.3982727936267584
+Tax avoidance,Disguised remuneration schemes,1.1611494129489246
+Software development for HMRC,HMRC recognition scheme,0.07912800302841315
+Software development for HMRC,New to HMRC development,1.2495868983511227
+Software development for HMRC,Working in partnership,0.07980623599311201
+Software development for HMRC,Software development support,0.8174706935332636
+Living or working abroad or offshore,Living and working abroad,0.9298886467980377
+Living or working abroad or offshore,Rules for specific occupations,1.8143952668356698
+Tax on savings and investments,Tax on shares,0.1542162314975969
+Tax on savings and investments,Tax efficient savings and investments,1.711635869572888
+Tax on savings and investments,Tax on savings,0.64809854140307
+Tax on savings and investments,Guidance for financial institutions,0.9392147893427859
+Inheritance Tax,Wills and probate,1.1057433064786035
+Inheritance Tax,Reliefs,2.0266944749074853
+Inheritance Tax,Working out the tax,0.9300883342644267
+Inheritance Tax,Paying HMRC,0.763214767575291
+Self Assessment,Paying your tax bill,0.34705120793413946
+Self Assessment,"Refunds, appeals and penalties",0.14213757291507464
+Self Assessment,Records you must keep,0.5180242095720748
+Self Assessment,Filing a tax return,1.8966572205160501
+Self Assessment,Registering for Self Assessment,0.42960447663868156
+Income Tax,Welsh rate of Income Tax,1.1193499063948105
+Income Tax,"Rates, allowances and reliefs",0.7353841545218398
+Income Tax,Pensions,0.739689151872171
+Income Tax,Scottish rate of Income Tax,0.1864433315797351
+Income Tax,Student jobs and loans,0.03364576762118516
+Income Tax,Company benefits and share schemes,0.8582728764414854
+Income Tax,Overpayments and underpayments,0.30120581096708343
+Income Tax,Special types of pay,2.0331201820892884
+Capital Gains Tax,Business,0.6406212804101321
+Capital Gains Tax,Property,0.8471885240451973
+Capital Gains Tax,Shares and investments,0.5088383244770253
+Capital Gains Tax,Personal possessions,0.14893247587373637
+Capital Gains Tax,Divorce and separation,0.7421906752069879
+Capital Gains Tax,Paying HMRC,0.6116796178735708
+National Insurance,Refunds,1.0865245669269599
+National Insurance,National Insurance numbers,1.5240792063514759
+National Insurance,Voluntary contributions,0.05605281640523342
+National Insurance,Rates and classes,1.0628602440646648
+Limited companies and partnerships,Directorship disqualification,0.9608886039357597
+Limited companies and partnerships,Overseas companies and European companies,0.30475661374486507
+Limited companies and partnerships,Partnerships,1.2250877394499025
+Limited companies and partnerships,"Company closure, administration, liquidation and insolvency",0.3904735906392871
+Limited companies and partnerships,Company names,0.6988176002095287
+Employing people,Payroll,0.31817997540555687
+Employing people,Recruiting and hiring,0.6081248224186688
+Employing people,Dismissing staff and redundancies,0.554674722109396
+Competition,Competition Act and cartels,0.128503934483671
+Competition,Mergers,0.8590426725393432
+Competition,Markets,0.6671069173838601
+Competition,Regulatory appeals and references,1.185883025795635
+Competition,Consumer protection,0.33706366748465605
+Competition,Competition law,1.0032714829914033
+Intellectual property,Patents,0.7911283651694939
+Intellectual property,Trade marks,0.9674210150965951
+Intellectual property,Designs,0.1467232686227526
+Intellectual property,Copyright,1.3396946303556607
+Regulation reform,Company law reform,0.8994868409013264
+Consumer rights and issues,Consumer protection,0.7080924840418102
+Consumer rights and issues,Gambling regulation,1.4460349581430085
+Consumer rights and issues,Consumer credit market,1.1134714407576163
+"Customs declarations, duties and tariffs (import and export)",Rules for specific goods and services,0.2956631878213688
+"Customs declarations, duties and tariffs (import and export)",Exchange rates,1.1563193546629311
+"Customs declarations, duties and tariffs (import and export)",Get goods through customs,0.8849427969370393
+"Customs declarations, duties and tariffs (import and export)",UK Trade Tariff and classification of goods,1.6763738370582124
+"Customs declarations, duties and tariffs (import and export)",Customs Freight Simplified Procedures,1.1881838891434702
+"Customs declarations, duties and tariffs (import and export)",Commodity codes and reporting,0.6502654372541252
+Exporting,Embargoes and sanctions,0.050008693215795236
+Exporting,Export controls and licensing,1.5590510602481145
+Exporting,Export finance,0.9732540310908547
+Exporting,Trade restrictions on exports,1.5023060128546284
+Exporting,Licences and special rules,0.42524711781693975
+Importing,Commodity codes and reporting,1.8868219367092551
+Importing,Wood packaging,1.9652551728850616
+Importing,Import controls,0.6751224222571736
+UK economic growth,Economic development in coastal and seaside areas,0.48752432045576116
+UK economic growth,Management of the European Regional Development Fund,0.7892327502283466
+UK economic growth,Local Enterprise Partnerships (LEPs) and Enterprise Zones,0.31311832839460557
+Health workforce,Careers in health and social care,0.2936536965688623
+Health workforce,Health and social care training,1.6463235642416618
+Health protection,Migrant health,0.25996774646763887
+Health protection,Emergency response,1.3731792407241914
+Health protection,Infectious diseases,0.003297319133169162
+Health protection,Immunisation,0.3137689935767474
+Health protection,Antimicrobial resistance (AMR),0.19717480172971705
+Health protection,Radiation protection,0.014373349495211246
+Health protection,Laboratories and reference facilities,0.8278042831890209
+Health protection,"Research, testing and standards",0.5082608096865081
+Health protection,Health surveillance and reporting programmes,1.2583590867282053
+Health protection,Chemical and environmental hazards,0.7980548170260312
+Health protection,Health emergency planning,1.1718950659188656
+Population screening programmes,NHS infectious diseases in pregnancy screening (IDPS) programme,0.34721735311619745
+Population screening programmes,NHS newborn hearing screening programme (NHSP),0.11369256622636593
+Population screening programmes,NHS bowel cancer screening (BCSP) programme,0.45880873453775217
+Population screening programmes,NHS breast screening (BSP) programme,2.1450481681549554
+Population screening programmes,NHS fetal anomaly screening programme (FASP),0.5999960043352311
+Population screening programmes,NHS newborn blood spot (NBS) screening programme,1.29742294683499
+Population screening programmes,NHS sickle cell and thalassaemia (SCT) screening programme,0.5186966316119039
+Population screening programmes,NHS newborn and infant physical examination (NIPE) screening programme,0.5583079081654916
+Population screening programmes,NHS diabetic eye screening (DES) programme,0.9588108239834023
+Population screening programmes,NHS cervical screening (CSP) programme,2.2744107490026044
+Population screening programmes,NHS abdominal aortic aneurysm (AAA) programme,1.2061980676124744
+Population screening programmes,Quality assurance in population screening,0.07038491193272571
+Health conditions,Diabetes,1.8106188124210818
+Health conditions,Heart disease,0.2868164993371003
+Health conditions,Learning disabilities,1.2316422868282224
+Health conditions,Cancer research and treatment,0.45582001427692587
+Health conditions,Obesity,0.21548749756033472
+Health conditions,Dementia,0.31705657528352066
+Health conditions,Autism,0.3197861446263318
+Mental health,Mental health service reform,1.1577561846822764
+Health improvement,Exercise and physical activity,0.6232470852744751
+Health improvement,Oral health,0.7570966702034585
+Health improvement,Healthy eating,1.145340202469834
+Health improvement,Smoking,1.2047657667978526
+Health improvement,Drug misuse and dependency,0.9040558609435188
+Health improvement,Harmful drinking,1.1039971395907249
+"Vigilance, safety alerts and guidance",Alerts and recalls,2.4759816623416873
+Inspection of children's social care providers,Inspections of fostering and adoption agencies,1.0804646541649212
+Inspection of children's social care providers,Inspections of local authority children's services,0.5526700368267318
+Inspection of children's social care providers,Children's homes and other residential care inspections,0.4761441057821986
+Inspection of children's social care providers,"Incidents, concerns and feedback about children's social care providers",1.2184411105708624
+HS2 Phase Two,HS2 Phase 2b,0.34746229891287045
+HS2 Phase Two,HS2 Phase 2a,0.04707450699459339
+MOTs,"Lorry, bus and trailer MOT tests",0.2953150254122638
+MOTs,"Car, motorcycle and van MOT tests",1.447278783988554
+Vehicle operator licences,Public service vehicles licensing,0.8147495017999051
+Vehicle operator licences,HGV and goods carriage vehicle licensing,0.5962058726590875
+Vehicle operator licences,Taxi and private hire vehicle licensing,0.1036451506174425
+Rural grants and payments,Basic Payment Scheme (BPS),0.963771104526905
+Rural grants and payments,Common Agricultural Policy (CAP) reform,0.3321021013037921
+Rural grants and payments,Cross-compliance,0.04637565212550318
+Rural grants and payments,Rural development,1.2881634434675167
+Rural grants and payments,Online applications and payments,0.3162785149780962
+Rural grants and payments,Countryside stewardship,0.27144911781377923
+NA,GOV.UK,-0.3230920862117707

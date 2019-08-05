@@ -5,6 +5,7 @@
 library(readr)
 library(tidyxl)
 library(unpivotr)
+library(tidyr)
 library(dplyr)
 library(purrr)
 library(collapsibleTree) # https://adeelk93.github.io/collapsibleTree/
@@ -65,3 +66,36 @@ hierarchy_flat <- hier_list[[1]] %>%
 
 # Write dataframe
 # write_csv(hierarchy_flat, "output/hierarchy_flat.csv")
+
+# Can be plotted as interactive visualisation
+
+tree <- collapsibleTree(
+  hierarchy_flat,  # input data frame
+  hierarchy = paste0("level", 1:5),  # columns containing hierarchy
+  root = "GOV.UK",  # name for root node
+  zoomable = FALSE,  # zoom in and out of the plot
+  fill = "#005ea5"  # set to GOV.UK default for now
+)
+
+
+# Testing with a 'long' dataset -------------------------------------------
+
+
+# 'Long data' (parent, node, attributes columns) also can be used to plot with
+# (Bind the parent-child elements from the hier_list object). It uses the 
+# collapsibleTreeNetwork() function rather than collapsibleTree() function.
+
+hierarchy_long <- bind_rows(hier_list[1:3]) %>% 
+  rename(parent = chr0, node = chr) %>% 
+  mutate(test_attribute = abs(rnorm(nrow(.)))) %>% # made-up
+  add_row(parent = NA, node = "GOV.UK", test_attribute = rnorm(1))  # root must have NA parent
+
+# Write dataframe
+# write_csv(hierarchy_long, "output/hierarchy_long.csv")
+
+# Feed to visualisation
+
+tree_attributes <- collapsibleTreeNetwork(
+  hierarchy_long,
+  attribute = "test_attribute"  # 
+)  # Takes a very long time
