@@ -12,7 +12,7 @@ There are [many ways to display hierarchical data](https://observablehq.com/coll
 
 There is a live tool/dashboard here: https://ukgovdatascience.github.io/govuk-taxonomy-viz/20190712_taxonomy-hierarchy-tree.html
 
-It currently has two tabs: one with an interactive tree and one to be used to display summary information.
+It currently has two tabs: one with an interactive tree and one with a table with clickable links to the topic pages for each taxon on GOV.UK.
 
 You can click the nodes on the [interactive tree diagram](https://ukgovdatascience.github.io/govuk-taxonomy-viz/20190712_taxonomy-hierarchy-tree.html) to expand them to the next level. Colour-filled nodes can be expanded; white nodes do not have any children and can't be expanded further.
 
