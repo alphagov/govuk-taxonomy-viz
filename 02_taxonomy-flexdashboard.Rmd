@@ -11,6 +11,8 @@ output:
 library(flexdashboard)  # creates the dashboard framework
 library(readr)  # reading data
 library(collapsibleTree) # https://adeelk93.github.io/collapsibleTree/
+library(DT)
+library(dplyr)
 
 # Read pre-prepared data from file 01_flatten-hierarchy.R
 hierarchy_flat <- read_csv("output/hierarchy_flat.csv")
@@ -23,36 +25,45 @@ tree <- collapsibleTree(
   zoomable = FALSE,  # zoom in and out of the plot
   fill = "#005ea5"  # set to GOV.UK default for now
 )
+
+taxon_links <- read_csv("data/taxon_links.csv") %>% 
+  mutate(URL = paste0('<a  target=_blank href=', taxon_link, '>', taxon_link,'</a>')) %>% 
+  select(Name = taxon_name, URL) %>% 
+  arrange(Name)
 ```
 
-Interactive tree {data-icon="ion-stats-bars"}
+Tree {data-icon="ion-stats-bars"}
 =====================================  
 
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Interactive tree
+### Explore the tree
 
 ```{r tree}
 tree  # render the interactive tree
 ```
 
-Information {data-orientation=rows data-icon="fa-info-circle"}
+Table {data-orientation=rows data-icon="ion-grid"}
 ===================================== 
 
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Counts
+### Get topic page on GOV.UK
 
-There are:
-
-* `r length(unique(hierarchy_flat$level1))` level 1 taxons
-* `r length(unique(hierarchy_flat$level2))` level 2 taxons
-* `r length(unique(hierarchy_flat$level3))` level 3 taxons
-* `r length(unique(hierarchy_flat$level4))` level 4 taxons
-* `r length(unique(hierarchy_flat$level5))` level 5 taxons
-
-### More information
-
-[Awaiting content]
+```{r}
+datatable(
+  taxon_links,
+  escape = FALSE,
+  style = "bootstrap",
+  class = "compact",
+  width = "100%",
+  extensions = c("Scroller"),
+  options = list(
+    deferRender = TRUE,
+    scrollY = 300,
+    scroller = TRUE
+  )
+)
+```

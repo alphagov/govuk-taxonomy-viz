@@ -1,6 +1,10 @@
 # Flatten hierarchy data
+# Matt Dray
+# August 2019
 
-# Packages
+
+# Load packages -----------------------------------------------------------
+
 
 library(readr)
 library(tidyxl)
@@ -10,15 +14,20 @@ library(dplyr)
 library(purrr)
 library(collapsibleTree) # https://adeelk93.github.io/collapsibleTree/
 
-# Read data
+
+# Read data ---------------------------------------------------------------
+
 
 hierarchy <- read_csv(
   "data/20190711_hierarchy.csv",
   col_names = paste0("level", 0:5)
 )
 
-# Function to 'flatten' hierarchy data
 
+# Prepare data for viz ----------------------------------------------------
+
+
+# Function to 'flatten' hierarchy data
 enhierarch <- function(data, first_level, second_level){
   
   flat <- data %>% 
@@ -34,12 +43,10 @@ enhierarch <- function(data, first_level, second_level){
 }
 
 # Create vectors that will provide pairs of columns to our function
-
 first_level_vec <- c("level0", "level1", "level2", "level3", "level4") 
 second_level_vec <-c("level1", "level2", "level3", "level4", "level5") 
 
 # Use the function over the vector pairs
-
 hier_list <- map2(
   .x = first_level_vec,
   .y = second_level_vec,
@@ -48,7 +55,6 @@ hier_list <- map2(
 
 # Join the list elements together
 # Naming of columns seems odd when you add more joins, have done this inelegantly
-
 hierarchy_flat <- hier_list[[1]] %>% 
   left_join(hier_list[[2]], by = c("chr" = "chr0")) %>% 
   left_join(hier_list[[3]], by = c("chr.y" = "chr0")) %>% 
@@ -67,7 +73,9 @@ hierarchy_flat <- hier_list[[1]] %>%
 # Write dataframe
 # write_csv(hierarchy_flat, "output/hierarchy_flat.csv")
 
-# Can be plotted as interactive visualisation
+
+# Interactive visualisation -----------------------------------------------
+
 
 tree <- collapsibleTree(
   hierarchy_flat,  # input data frame
