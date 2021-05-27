@@ -10,7 +10,7 @@ There are [many ways to display hierarchical data](https://observablehq.com/coll
 
 ### Live 
 
-There is a live tool/dashboard here: https://ukgovdatascience.github.io/govuk-taxonomy-viz/20190712_taxonomy-hierarchy-tree.html
+There is a live tool/dashboard here: https://alphagov.github.io/govuk-taxonomy-viz/20190712_taxonomy-hierarchy-tree.html
 
 It currently has two tabs: one with an interactive tree and one with a table with clickable links to the topic pages for each taxon on GOV.UK.
 
